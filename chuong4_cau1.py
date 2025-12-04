@@ -11,3 +11,4 @@ else:
     p=cv/2 
     dt=sqrt(p*(p-a)*(p-b)*(p-c))
     print("Diện tích =",dt) 
+  
